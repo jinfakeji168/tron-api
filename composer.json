@@ -24,7 +24,7 @@
     ],
 
     "require": {
-        "php": "^7.2",
+        "php": "^7.2|^8.0",
         "guzzlehttp/guzzle": "^7.0",
         "iexbase/web3.php": "^2.0.1",
         "kornrunner/secp256k1": "^0.1.2",
